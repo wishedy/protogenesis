@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,iBAAiB;EACf,QAAQ,EAAE,QAAQ;;AAEpB,YAAY;EACV,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI",
+"sources": ["../scss/swipe.scss"],
+"names": [],
+"file": "swipe.css"
+}

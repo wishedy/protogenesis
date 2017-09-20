@@ -1,0 +1,170 @@
+
+.phoenix-container{
+  width: 100%;
+  height: auto;
+  min-height: 800px;
+  .phoenix-container-inner{
+    width: 100%;
+    .phoenix-header{
+      width: 100%;
+      background: url("../img/2e0dfdf428cd9ef05ed3fc30cebec605.png") no-repeat 50% 50%;
+      .phoenix-header-inner{
+        width: 1180px;
+        margin: 0 auto;
+        //width: auto;
+        height: 760px;
+        .phoenix-nav{
+          float: right;
+          .phoenix-nav-item{
+            float: left;
+            color: #fff;
+            padding: 36px 0 20px 0;
+            margin: 0 25px;
+            font-size: 16px;
+          }
+          .active{
+            border-bottom: 2px solid #FADE94;
+          }
+        }
+      }
+
+    }
+    .phoenix-banner {
+      width: 100%;
+      background: #F54343 url("../img/427ed9bf6909cf50ea19bcdb9aae8b42.png") no-repeat 50% 50%;
+      //background: #F54343;
+      .phoenix-banner-inner{
+        width: 1180px;
+        //width: auto;
+        margin: 0 auto;
+        height: 936px;
+      }
+    }
+    .phoenix-banner-second{
+      width: 100%;
+      background: #ED7E53  url("../img/bd879c4b2da87199a1039f003420f545.png") no-repeat 50% 50%;
+      .phoenix-banner-second-inner{
+        width: 1180px;
+        //width: auto;
+        margin: 0 auto;
+        height: 927px;
+      }
+    }
+    .phoenix-banner-third{
+      width: 100%;
+      background: #ED7E53;
+      .phoenix-banner-third-inner{
+        width: 1180px;
+        //width: auto;
+        margin: 0 auto;
+        height: 927px;
+        .phoenix-swiper-container{
+          width: 912px;
+          height: 612px;
+          float: left;
+          position: relative;
+          //display: inline-block;
+          //margin-right: 58px;
+          background: #fcde12;
+        }
+        .phoenix-swiper-aside{
+          float: right;
+          width: 226px;
+          //display: inline-block;
+          height: 612px;
+          .phoenix-swiper-title,.phoenix-swiper-subtitle,.phoenix-swiper-des{
+            font-size: 22px;
+            color: #fff;
+            font-weight: 600;
+            text-align: center;
+            line-height: 30px;
+            padding-bottom:15px;
+            border-bottom: 2px solid #F9DB92;
+          }
+          .phoenix-swiper-subtitle{
+            padding-bottom: 40px;
+          }
+          .phoenix-swiper-subtitle,.phoenix-swiper-des{
+            text-align: right;
+            border: 0;
+            font-weight: 800;
+            line-height: 40px;
+          }
+          .phoenix-swiper-des{
+            line-height: 26px;
+          }
+          .phoenix-swiper-content{
+            color: #fdf8e3;
+            font-size: 16px;
+            line-height: 32px;
+            text-align: right;
+
+          }
+        .phoenix-swiper-next{
+          background: url("../img/next_3e2d3b6f.png") no-repeat 50% 50%;
+          width: 186px;
+          height: 66px;
+          margin-top:30px;
+        }
+        }
+      }
+
+    }
+    .phoenix-banner-fourth{
+      width: 100%;
+      background: #EB635D url("../img/LOCAL-STATION2_74ef227e.png") no-repeat 50% 50%;
+      .phoenix-banner-fourth-inner{
+        width: 1180px;
+        //width: auto;
+        margin: 0 auto;
+        height:926px;
+      }
+
+    }
+    .phoenix-banner-five{
+      width: 100%;
+      background: #EB635D url("../img/1639e513e22642f752d012dc3ae9c6e9.png") no-repeat 50% 50%;
+      .phoenix-banner-five-inner{
+        width: 1180px;
+        //width: auto;
+        margin: 0 auto;
+        height:926px;
+      }
+    }
+    .phoenix-banner-six{
+      width: 100%;
+      .phoenix-banner-six-inner{
+        width: 1180px;
+        margin: 0 auto;
+        height:926px;
+        .phoenix-banner-title,.phoenix-banner-sutitle{
+          color: #333;
+          line-height: 60px;
+          font-size: 22px;
+          text-align: right;
+          margin: 0 auto;
+          width: 280px;
+          border-bottom: 2px solid #FADE94;
+        }
+        .phoenix-banner-sutitle{
+          text-align: center;
+          font-weight: 800;
+          border-bottom: 0;
+        }
+        .phoenix-city-list{
+          line-height: 32px;
+        }
+      }
+    }
+    .phoenix-footer{
+      width: 100%;
+      background: url("../img/d650793eb069402bdfd1d01ac3515baa.png") no-repeat 50% 50%;
+      .phoenix-footer-inner{
+        width: 1180px;
+        margin: 0 auto;
+        height: 130px;
+        color:#F54343;
+      }
+    }
+  }
+}
